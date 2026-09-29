@@ -1,0 +1,6 @@
+{
+  "name": "Management Tabungan Pemuda Beji",
+  "description": "Sistem modern pengelolaan tabungan dan kas anggota Pemuda Beji terintegrasi dengan Google Sheets, Kartu Anggota Digital, dan QR Code verifikasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
